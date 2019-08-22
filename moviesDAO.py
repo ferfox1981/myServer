@@ -5,7 +5,7 @@ from bson.json_util import dumps
 
 
 
-conn = get_connection('ferfox', 'w1lsh1r3')
+conn = get_connection('xxx', 'yyyyy')
 colection = conn['sample_mflix']['movies']
 
 
